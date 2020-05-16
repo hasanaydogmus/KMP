@@ -1,0 +1,19 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Enterprise Architecture Landscape"
+    id="916a576b-8f02-434a-bc45-f91ffd27a84e">
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="27b465e0-e7aa-4aa0-9212-2be2914f984a"
+      font="1|Segoe UI Semibold|13.875|0|WINDOWS|1|-37|0|0|0|600|0|0|0|-94|3|2|1|34|Segoe UI Semibold"
+      textAlignment="1"
+      borderColor="#000000"
+      content="KMPTELECOM ENTERPRISE ARCHITECTURE LANDSCAPE">
+    <bounds
+        x="43"
+        y="32"
+        width="582"
+        height="53"/>
+  </children>
+</canvas:CanvasModel>
